@@ -4,7 +4,7 @@
 title: "Barrio Suburbanism"
 email: placeholder
 description: This is what description will look like.
-baseurl: "/BarrioSurburbanism" # the subpath of your site, e.g. /blog/
+baseurl: "/BarrioSuburbanism" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/UCLAChicanxStudies/BarrioSuburbanism
 
