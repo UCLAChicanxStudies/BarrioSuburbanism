@@ -1,3 +1,12 @@
+This repository . . . .
+
+
+
+
+
+
+For more information about the Flâneur framework which was made to build this site/project please visit the [Flâneur repository](https://github.com/kirschbombe/flaneur)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2600530.svg)](https://doi.org/10.5281/zenodo.2600530)
 
 ## Flâneur
