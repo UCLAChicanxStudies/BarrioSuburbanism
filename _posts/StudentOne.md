@@ -2,10 +2,10 @@
 layout: post
 title: "StudentOne"
 date: 2013-09-01
-categories: ["categories with spaces in quotes - this populates the map layers widget and index"]
+categories: ["category 1", "category 2"]
 author: "placeholder"
-lat:34.030363
-lng:-118.291682
+lat: 34.030363
+lng: -118.291682
 runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "this is the map popup text"
 ---
