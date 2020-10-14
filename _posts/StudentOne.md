@@ -6,7 +6,7 @@ categories: ["category 1", "category 2"]
 author: "placeholder"
 lat: 34.030363
 lng: -118.291682
-runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+runningtitle: "this is the running title at the top"
 desc: "this is the map popup text"
 ---
 Body text goes here in Markdown
