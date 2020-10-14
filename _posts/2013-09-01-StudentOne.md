@@ -11,7 +11,7 @@ desc: "this is the map popup text"
 ---
 Body text goes here in Markdown
 
-![ImageOne](images/boulevardier1)
+![ImageOne](images/boulevardier1.jpg)
    {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
 Placeholder Caption.
    {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
