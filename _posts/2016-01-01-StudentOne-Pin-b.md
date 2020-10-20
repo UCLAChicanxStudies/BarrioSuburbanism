@@ -11,12 +11,12 @@ desc: "The emerging middle-class suburbs in Jurupa Valley are transforming the c
 ---
 Throughout Jurupa Valley there are three large neighborhoods of tract homes being built. These new suburbs have homes that, according to "newhomesource.com," are worth around half a million dollars. Presumably, in order to pay for such a home, one would have a college education, a white collar job and will be making above the national median, which would complete the "traditional markers of the middle-class status" (Vallejo). As shown in the image, the aesthetic qualities of the neighborhood still follow Frederick Olmstead's Romantic Suburb layout. Simultaneously, the houses are promoting the suburban ideal, the "middle-class American dream" with the iconic white picket fence, more private space, and an overall a more enclosed community (Nicolaides and Wiese). Underneath the surface there is racial apartheid at play, since it is white Americans who tend to have the ability to live in these "nicer" neighborhoods that entails other benefits.
 
-{:.image}![Image 1](images/NewSuburbs_1.jpg)
-{:.caption}Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona
-{:.image}![Image 2](images/NewSuburbs_2.jpg)
-{:.caption}Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona
-{:.image}![Image 3](images/NewSuburbs_3.jpg)
-{:.caption}Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona
+![Image 1](images/NewSuburbs_1.jpg) {:.image}
+Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
+![Image 2](images/NewSuburbs_2.jpg) {:.image}
+Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
+![Image 3](images/NewSuburbs_3.jpg){:.image}
+Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
 
 #### Works cited
 {:.bibliography}
