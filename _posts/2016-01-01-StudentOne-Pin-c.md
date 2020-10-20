@@ -11,12 +11,18 @@ desc: "Within traditionally disadvantaged communities cultural hubs like small m
 ---
 Las tiendas y Iglesia refers to the local Mexican markets and the Catholic churches that are located within the historic barrios of Jurupa Valley. Both of these cultural hubs are critically important for the city that is 68% Hispanic (Policy Map). The churches, which have a longer history of acting as agencies of oppression, have become places of cultural reproduction (Garcia). Today, these churches hold annual festivals and have playgrounds along with other sports facilities for the community to gather around. Similarly, local Mexican markets are places where people can come together to speak spanish, buy certain ingredients that american grocery stores may not have, or just learn about the rumors going around town. These places also lend themselves as spaces that can be used to organize. Having a church and a market in each barrio has created networks between colonials that may be separated by wealthier neighborhoods (Gonzales).
 
-![Image 1](images/LasTiendas_1.jpg) {:.image}
-Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
-![Image 2](images/LasTiendas_2.jpg) {:.image}
-Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
-![Image 3](images/LasTiendas_3.jpg){:.image}
-Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona {:.caption}
+![Image 1](images/LasTiendas_1.jpg) 
+{:.image}
+[Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona] 
+{:.caption}
+![Image 2](images/LasTiendas_2.jpg) 
+{:.image}
+[Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona] 
+{:.caption}
+![Image 3](images/LasTiendas_3.jpg)
+{:.image}
+[Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona] 
+{:.caption}
 
 #### Works cited
 {:.bibliography}
