@@ -10,4 +10,3 @@ permalink: /credits/
 
 #### Icons
 * _Map Marker_ icon created by Berkay Sargin from the Noun Project
-* _north_ by Lluisa Iborra from the Noun Project
