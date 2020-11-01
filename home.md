@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Barrio Suburbanisms"
 ---
 
@@ -7,5 +7,5 @@ title: "Barrio Suburbanisms"
 
 ![Home Image](assets/images/Home_1.jpg)
 {:.image}
-"Hispanic Demographic 2010," courtesy of Social Explorer https://www.socialexplorer.com/10baeb3340/view
+"Hispanic Demographic 2010," courtesy of [Social Explorer](https://www.socialexplorer.com/10baeb3340/view)
 {:.caption}
