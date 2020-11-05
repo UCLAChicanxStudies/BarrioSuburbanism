@@ -8,6 +8,7 @@ permalink: /browsebyimages/
 {:.image} 
 [New Suburbs](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article/2016-01-01-studentone-pin-b) 
 {:.caption} 
+
 ![Post Image](images/LasTiendas_1.jpg) 
 {:.image}
 [Las Tiendas](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article/2016-01-01-studentone-pin-c) 
