@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Map Key
-permalink: /mapkey/
+title: Color Key
+permalink: /colorkey/
 ---
 
 #### Categories
@@ -13,42 +13,34 @@ permalink: /mapkey/
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category One
+> #### Immigration and Migration
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Two
+> #### Architecture and the Built Environment
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Three
+> #### Urban Planning and Policy
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Four
+> #### Economic (im)mobility and Class
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Five
+> #### Conflict and Solidarity
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Six
+> #### Activism and Justice
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Seven
+> #### Social Identity and Diversity
 * This category is ...
 * For more on ..., see (input resources here)
 
-> #### Category Eight
-* This category is ...
-* For more on ..., see (input resources here)
-
-> #### Category Nine
-* This category is ...
-* For more on ..., see (input resources here)
-
-> #### Category Ten
+> #### Global and Transnational
 * This category is ...
 * For more on ..., see (input resources here)
