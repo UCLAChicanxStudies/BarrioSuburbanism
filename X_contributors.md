@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors
-permalink: /contributors/
+permalink: /X_contributors/
 ---
 
 #### Principal Investigators
