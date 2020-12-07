@@ -2,7 +2,7 @@
 layout: post
 title: "Rosemead Trailer Park"
 date: 2016-01-01
-categories: ["category 2"]
+categories: ["category 2","category 8","category 9"]
 author: "Student Two"
 lat: 34.080736
 lng: -118.056979
