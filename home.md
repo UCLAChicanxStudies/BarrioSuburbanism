@@ -3,7 +3,9 @@ layout: page
 title: "Barrio Suburbanisms"
 ---
 
-#### Navigation
+#### Navigation 
+* Use dropdown menu at top right corner of map when navigating between pages outside of 'Home'
+
 > [Browse Articles](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article-index/)
 
 > [Browse by Images](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/browsebyimages/) 
