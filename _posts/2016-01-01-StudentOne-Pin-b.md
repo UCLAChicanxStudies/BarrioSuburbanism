@@ -2,7 +2,7 @@
 layout: post
 title: "New Suburbs"
 date: 2016-01-01
-categories: ["category 1","category 6","category 7"]
+categories: ["Economic (im)mobility and Class","Conflict and Solidarity","Activism and Justice"]
 author: "Student One"
 lat: 34.011
 lng: -117.453
