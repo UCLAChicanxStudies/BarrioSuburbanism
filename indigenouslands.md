@@ -15,9 +15,9 @@ Gabrielino Nation: Spirit of the Sage, 1995, by Johanna Poething, Commissioned b
 
 > For a Story Map which integrates histories and narratives of Indigenous peoples with spatial geography, see [Mapping Indigenous LA: Placemaking Through Digitial Storytelling](https://www.arcgis.com/apps/MapJournal/index.html?appid=a9e370db955a45ba99c52fb31f31f1fc#)
 
-![Indigenous Lands Image](assets/images/IndigenousLands_1.jpg)
+![Indigenous Lands Image](assets/images/yaanga-map.png)
 {:.image}
-[Tongva Villages of the Los Angles Basin](https://native-land.ca/maps/territories/tongva/)
+[Tongva Sites of Yaanga, Map by David Deis (LAtitudes: an Angeleno's Atlas, Heyday Press, 2015)](https://decolonialatlas.wordpress.com/2017/07/26/tongva-sites-of-los-angeles/)
 {:.caption}
 
 > [Native-Land.ca](https://native-land.ca) "offers an online platform where users can interact with maps of Indigenous territories, treaties, and languages, and locate themselves and their favorite places on the map. Fundamentally, the maps aim to visualize the complexity and diversity of Indigenous peoples, nations, and cultures across the Americas, Australia, and increasingly the world, so that nonIndigenous and Indigenous people alike can increase their understanding and knowledge of the breadth and depth of Indigenous history in these places."
