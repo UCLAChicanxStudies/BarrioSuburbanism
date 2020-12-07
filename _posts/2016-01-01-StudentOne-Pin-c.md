@@ -2,7 +2,7 @@
 layout: post
 title: "Las Tiendas y Iglesia"
 date: 2016-01-01
-categories: ["category 1"]
+categories: ["category 1","category 10"]
 author: "Student One"
 lat: 33.998
 lng: -117.410
