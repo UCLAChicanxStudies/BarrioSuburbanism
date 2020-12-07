@@ -2,7 +2,7 @@
 layout: post
 title: "Rosemead High School"
 date: 2016-01-01
-categories: ["category 2"]
+categories: ["Student Contribution"]
 author: "Student Two"
 lat: 34.085240
 lng: -118.071487
