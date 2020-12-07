@@ -2,7 +2,7 @@
 layout: post
 title: "Rosemead City Hall"
 date: 2016-01-01
-categories: ["category 2"]
+categories: ["Student Contribution"]
 author: "Student Two"
 lat: 34.0803047
 lng: -118.0763308
