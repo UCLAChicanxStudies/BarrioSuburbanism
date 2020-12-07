@@ -2,7 +2,7 @@
 layout: post
 title: "Rubidoux Swapmeet"
 date: 2016-01-01
-categories: ["category 1"]
+categories: ["Student Contribution"]
 author: "Student One"
 lat: 34.007
 lng: -117.424
