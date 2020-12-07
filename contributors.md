@@ -12,29 +12,24 @@ permalink: /contributors/
 * Registered Architect, Urban Humanist, teacher and scholar in Architecture Critical Studies, History and Theory. Doctoral student in Architecture and Urban Design at UCLA-AUD 
 
 
-#### Sponsors
-> #### The Mellon Foundation
-* We'd like to thank the Mellon Foundation, for their generous contribution of a Teaching Innovation Grant in support of the prototyping of this project over the 2020-2021 Academic year
-
-
 #### Advisory Board Members
-> #### Xaviera Flores
-* Librarian and Archivist at the UCLA Chicano Studies Research Center. Flores oversees all library, archives, and museum services, including outreach, instruction, grant projects, and donor relations. She also works closely with students and partner organizations to build stronger ties between community and UCLA.
-
-> #### Lizeth Ramirez
-* Librarian and Archivist for Los Angeles Communities and Cultures, Bibliotecaria/Archivista para Comunidades y Culturas de Los Ángeles
-
-> #### Jimmy Zavala
-* Teaching and Learning Librarian, UCLA Charles E. Young Research Library, Special Collections
-
 > #### Gustavo Arellano
 * Writer and California Columnist for the Los Angeles Times
+
+> #### Xaviera Flores
+* Librarian and Archivist at the UCLA Chicano Studies Research Center. Flores oversees all library, archives, and museum services, including outreach, instruction, grant projects, and donor relations. She also works closely with students and partner organizations to build stronger ties between community and UCLA.
 
 > #### Romeo Guzmán
 * Co-director of the South El Monte Arts Posse and Assistant Professor in US and Public History at Claremont Graduate University
 
+> #### Lizeth Ramirez
+* Librarian and Archivist for Los Angeles Communities and Cultures, Bibliotecaria/Archivista para Comunidades y Culturas de Los Ángeles
+
 > #### Esperanza Sanchez
 * Historian, Educator and Associate Curator at La Plaza de Cultura y Artes
+
+> #### Jimmy Zavala
+* Teaching and Learning Librarian, UCLA Charles E. Young Research Library, Special Collections
 
 
 #### Site Framework
@@ -50,4 +45,6 @@ permalink: /contributors/
 #### Public Authors
 
 
-
+#### Sponsors
+> #### The Mellon Foundation
+* We'd like to thank the Mellon Foundation, for their generous contribution of a Teaching Innovation Grant in support of the prototyping of this project over the 2020-2021 Academic year
