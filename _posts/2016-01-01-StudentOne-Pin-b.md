@@ -29,3 +29,5 @@ Throughout Jurupa Valley there are three large neighborhoods of tract homes bein
 1. Nicolaides, Becky M., and Andrew Wiese. "Introduction." The Suburban Reader. N.p.: Routledge, 2006. Print.
 2. Olmsted, Frederick L. General Plan of Riverside. Digital image. Library of American Landscape History. Riverside Historic Museum, 20 Aug. 2013. Web. 20 Feb. 2016.
 3. Vallego, Jody A. Barrios to Burbs: The Making of the Mexican-American Middle Class. Stanford UP, 2012. Print.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
