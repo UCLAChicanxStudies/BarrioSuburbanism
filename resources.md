@@ -12,3 +12,6 @@ permalink: /resources/
 
 [Orange Public Library & History Center, Digital Collection](http://history.cityoforange.org/knowvation) 
 * The Orange Public Library & History Center Digital Collection is an online resource that focuses on the history of the City of Orange. It consists primarily of photographs that include a variety of time periods and subjects. Photographs date to as early as the 1850s and feature the city's founding citizens, businesses, organizations and landmarks. 
+
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
