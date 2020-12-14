@@ -27,8 +27,6 @@ title: "Barrio Suburbanisms"
 
 > [Indigenous Lands](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/indigenouslands/)
 
-> [Color Key](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/mapkey/)
-
 > [Resources](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/resources/)
 
 > [Contributors](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/contributors/)
