@@ -19,3 +19,5 @@ Gabrielino Nation: Spirit of the Sage, 1995, by Johanna Poething, Commissioned b
 {:.image}
 [Tongva Sites of Yaanga, Map by David Deis (LAtitudes: an Angeleno's Atlas, Heyday Press, 2015)](https://decolonialatlas.wordpress.com/2017/07/26/tongva-sites-of-los-angeles/)
 {:.caption}
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
