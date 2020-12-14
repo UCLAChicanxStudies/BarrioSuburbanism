@@ -21,3 +21,6 @@ The logistics industry is very big in the city of Jurupa Valley. The city houses
 1. “PolicyMappingHispanicPopulation.” Policymap.com. 2010, 2009. Web. 20 Feb 2016.
 2. Barboza, Tony. "People Living near 60 Freeway in Ontario Breathe the Worst Air in the Southland." Los Angeles Times. Los Angeles Times, 9 Sept. 2015. Web. 21 Feb. 2016.
 3. Gonzales, Alfonso. "Globalization and Demographic Change in Riverside County." Reform without Justice: Latino Migrant Politics and the Homeland Security State. New York: Oxford UP, 2014. N. pag. Print.
+
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
