@@ -21,3 +21,5 @@ Image attribution / caption.
 {:.bibliography} <-- this tag is needed for bibliography formatting -->
 1. Entry 1
 2. Entry 2
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
