@@ -28,3 +28,5 @@ Rosemead City Hall is located next to the Rosemead Library and the Rosemead Cham
 #### Works cited
 {:.bibliography}
 1. The Los Angeles Times. Mapping Los Angeles. Web. 13 February 2016.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
