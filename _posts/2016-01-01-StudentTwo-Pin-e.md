@@ -20,3 +20,5 @@ This library is located in a central space with City Hall, the Rosemead Chamber 
 #### Works cited
 {:.bibliography}
 1. Ochoa, Gilda L. Becoming Neighbors in a Mexican American Community: Power, Conflict, and Solidarity. University of Texas Press, Austin. 2004.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
