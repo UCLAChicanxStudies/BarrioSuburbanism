@@ -21,3 +21,5 @@ This trailer park is one of the multiple trailer parks located in the San Gabrie
 1. Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.
 2. Garcia, Matt. A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900 to 1970. Chapel Hill: The University of North Carolina Press, 2001.
 3. Rosemead Chamber of Commerce. Web. 24 Jan. 2016.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
