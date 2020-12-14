@@ -48,3 +48,5 @@ permalink: /zcontributors/
 #### Sponsors
 > #### The Mellon Foundation
 * We'd like to thank the Mellon Foundation, for their generous contribution of a Teaching Innovation Grant in support of the prototyping of this project over the 2020-2021 Academic year
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
