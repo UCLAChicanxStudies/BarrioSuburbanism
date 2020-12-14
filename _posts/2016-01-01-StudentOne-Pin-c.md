@@ -29,3 +29,5 @@ Las tiendas y Iglesia refers to the local Mexican markets and the Catholic churc
 1. “PolicyMappingHispanicPopulation.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.
 2. Garcia, Matt. A World of Its Own: Race, Labor and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill ; London: U of North-Carolina, 2001. Print.
 3. Gonzales, Alfonso. "Globalization and Demographic Change in Riverside County." Reform without Justice: Latino Migrant Politics and the Homeland Security State. New York: Oxford UP, 2014. N. pag. Print.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
