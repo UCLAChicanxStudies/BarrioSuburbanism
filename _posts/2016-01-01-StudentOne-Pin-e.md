@@ -25,3 +25,5 @@ The Rubidoux swap meet was built during the 1950s when Riverside County was goin
 1. “PolicyMappingHispanicPopulation.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.
 2. Gonzales, Alfonso. "Globalization and Demographic Change in Riverside County." Reform without Justice: Latino Migrant Politics and the Homeland Security State. New York: Oxford UP, 2014. N. pag. Print.
 3. Singer, Audrey, Susan Wiley. Hardwick, and Caroline Brettell. Twenty-first-century Gateways: Immigrant Incorporation in Suburban America. Washington, D.C.: Brookings Institution, 2008. Print.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
