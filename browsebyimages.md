@@ -13,3 +13,6 @@ permalink: /browsebyimages/
 {:.image}
 [Las Tiendas](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article/2016-01-01-studentone-pin-c) 
 {:.caption}
+
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
