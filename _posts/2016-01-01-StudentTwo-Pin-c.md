@@ -25,3 +25,5 @@ While living in the San Gabriel Valley all of my cousins attended Rosemead High 
 {:.bibliography}
 1. Cheng, Wendy. The Changs Next Door to the Diazes: Remapping Race in Suburban California. Minnesota Press, 2013.
 2. Great Schools. Web. 23 February 2016.
+
+[Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
