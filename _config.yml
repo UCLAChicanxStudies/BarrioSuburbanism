@@ -25,7 +25,7 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-map-tileset: 'https://studio.mapbox.com/styles/mrovner/ckj8ufon29cfc19nk2q1hjo1k/edit/#10.18/33.9322/-118.2227'
+map-tileset: 'mapbox://styles/mrovner/ckj8ufon29cfc19nk2q1hjo1k'
 map-credits: 'Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
