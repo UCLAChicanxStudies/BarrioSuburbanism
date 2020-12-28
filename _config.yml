@@ -25,7 +25,7 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/ckj8ufon29cfc19nk2q1hjo1k.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/ckj8ufon29cfc19nk2q1hjo1k.html?fresh=true&title=copy&access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
