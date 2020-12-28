@@ -10,8 +10,6 @@ title: "Barrio Suburbanisms"
 
 >The Barrio Suburbanism map is a project created by faculty and students at UCLA in the Department of Chicana/o and Central American Studies in collaboration with librarians, archivists, and community advisors with the aim of moving us beyond the iconic scene of Los Angeles produced from the studios of the Hollywood Hills to the lived experiences of space radiating out from Mariachi Plaza in Boyle Heights to the Tierra Mia coffee shop in Huntington Park. Explore the “menu” to learn more about this project and how you can contribute to sharing the ever-unfolding history of this region.
 
->We acknowledge the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and So. Channel Islands) and pay our respects to the Honuukvetam (Ancestors), ‘Ahiihirom (Elders) and ‘Eyoohiinkem (our relatives/relations) past, present and emerging.
-
 ![Home Image](assets/images/Home_1.jpg)
 {:.image}
 "Hispanic Demographic 2010," courtesy of [Social Explorer](https://www.socialexplorer.com/10baeb3340/view)
