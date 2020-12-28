@@ -15,9 +15,9 @@ permalink: /resources/
 
 [UCLA Center for Oral History Research](https://oralhistory.library.ucla.edu/)
 * The UCLA Center for Oral History Research (COHR) conducts in-depth, multi-session oral history interviews with individuals who have been a part of the history of Los Angeles and its many communities. COHR has particularly strong collections in the history of social movements, communities of color, the arts, Los Angeles politics and government, and the history of UCLA.
-### Relevant Collections
-[Latina and Latino History](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Latina+and+Latino+History)
-[Central Americans in Southern California](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Central+Americans+in+Southern+California)
-[Chicano Movement](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Chicano+Movement)
+
+* [Latina and Latino History](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Latina+and+Latino+History)
+* [Central Americans in Southern California](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Central+Americans+in+Southern+California)
+* [Chicano Movement](https://oralhistory.library.ucla.edu/?f%5Bsubject_topic_facet%5D%5B%5D=Chicano+Movement)
 
 [Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
