@@ -25,8 +25,8 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-map-tileset: 'mapbox://styles/mrovner/ckj8ufon29cfc19nk2q1hjo1k'
-map-credits: 'Tiles: Mapbox'
+map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/ckj8ufon29cfc19nk2q1hjo1k.html?fresh=true&title=view&access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
 setView: '[34.021932, -118.284406], 8'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
