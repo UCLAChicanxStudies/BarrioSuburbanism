@@ -13,7 +13,7 @@ permalink: /zcontributors/
 
 #### Advisory Board Members
 > #### Gustavo Arellano
-* Writer and California Columnist for the Los Angeles Times
+* Gustavo Arellano is author of Orange County: A Personal History and Taco USA: How Mexican Food Conquered America, a features writer for the Los Angeles Times, and has been essayist and reporter for various publications and a frequent commentator on radio and television. He was formerly editor of OC Weekly, an alternative newspaper in Orange County, California, and penned the award-winning “¡Ask a Mexican!,” a nationally syndicated column in which he answered any and all questions about America's spiciest and largest minority. Gustavo is the recipient of awards ranging from the Association of Alternative Newsweeklies Best Columnist to the Los Angeles Press Club President&#39;s Award to an Impacto Award from the National Hispanic Media Coalition, and was recognized by the California Latino Legislative Caucus with a 2008 Spirit Award for his “exceptional vision, creativity, and work ethic.” Gustavo is a lifelong resident of Orange County and is the proud son of two Mexican immigrants, one whom came to this country in the trunk of a Chevy.
 
 > #### Xaviera Flores
 * Librarian and Archivist at the UCLA Chicano Studies Research Center. Flores oversees all library, archives, and museum services, including outreach, instruction, grant projects, and donor relations. She also works closely with students and partner organizations to build stronger ties between community and UCLA.
@@ -39,9 +39,6 @@ permalink: /zcontributors/
 
 
 #### Student Authors
-
-
-#### Public Authors
 
 
 #### Sponsors
