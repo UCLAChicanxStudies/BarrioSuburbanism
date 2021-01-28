@@ -2,7 +2,7 @@
 layout: post
 title: "Rosemead Chamber of Commerce"
 date: 2016-01-01
-categories: ["Social Identity and Diversity","Global and Transnational","Student Contribution"]
+categories: ["Social Identity and Diversity","Global and Transnational"]
 author: "Student Two"
 lat: 34.080205
 lng: -118.077855
