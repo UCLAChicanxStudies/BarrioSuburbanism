@@ -2,7 +2,7 @@
 layout: post
 title: "Rosemead Public Library"
 date: 2016-01-01
-categories: ["Student Contribution"]
+categories: 
 author: "Student Two"
 lat: 34.0801603
 lng: -118.0770963
