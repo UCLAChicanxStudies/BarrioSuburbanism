@@ -2,7 +2,7 @@
 layout: post
 title: "Jurupa Valley Dog Park"
 date: 2016-01-01
-categories: ["Immigration and Migration", "Urban Planning and Policy", "Student Contribution"]
+categories: ["Immigration and Migration", "Urban Planning and Policy"]
 author: "Student One"
 lat: 33.987
 lng: -117.429
