@@ -18,6 +18,8 @@ title: "Barrio Suburbanisms"
 
 #### Navigation 
 * Use dropdown menu at top right corner of map when navigating between pages outside of 'Home'
+![dropdown](assets/images/dropdown.jpg)
+{:.image}
 
 > [Browse Articles](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article-index/)
 
