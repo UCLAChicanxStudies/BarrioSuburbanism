@@ -2,7 +2,7 @@
 layout: post
 title: "Warehouses and Distribution Center"
 date: 2016-01-01
-categories: ["Student Contribution"]
+categories: []
 author: "Student One"
 lat: 34.012
 lng: -117.525
