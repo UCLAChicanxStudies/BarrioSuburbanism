@@ -7,6 +7,11 @@ permalink: /resources/
 [Calisphere](https://calisphere.org/) 
 * Calisphere is a gateway to digital collections from California's great libraries, archives, and museums. Discover over 1,850,000 images, texts, and recordings—and counting.
 
+[Chicano Studies Research Center Library](https://guides.library.ucla.edu/csrc)
+* Established in 1969, the UCLA Chicano Studies Research Center Library was the first library in the United States to focus on the Mexican-descent population. Today, the CSRC Library is considered to hold among the most important national and international research collections in existence on the Chicana and Chicano experience.
+
+>* [CSRC Resources and Links](https://docs.google.com/document/d/1cPTaJ5thy7xl4vB60CiRauUEiqBpqPUv8J04vxPsucI/edit?usp=sharing)
+
 [Los Angeles Public Library historic photograph collection](https://tessa.lapl.org/photocol) 
 * The Los Angeles Public Library Photo Collection contains images from the 1850s to the present, documenting all aspects of life in Southern California, with an emphasis on Los Angeles.
 
