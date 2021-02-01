@@ -17,8 +17,7 @@ title: "Barrio Suburbanisms"
 
 
 #### Navigation 
-![dropdown](assets/images/dropdown.png)
-{:.image} Use dropdown menu at top right corner of map when navigating between pages outside of 'Home'
+![dropdown](assets/images/dropdown.png) Use dropdown menu at top right corner of map when navigating between pages outside of 'Home'
 
 > [Browse Articles](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article-index/)
 
