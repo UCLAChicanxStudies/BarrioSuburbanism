@@ -16,7 +16,7 @@ The Boyle Hotel was created in 1889 when the suburb was wealthy and rural. The V
 Photograph showing the Boyle Hotel in Boyle Heights. Source: Los Angeles Photographers Collection, Los Angeles Public Library, 1976. 
    {:.caption}
 
-![The Boyel Hotel](images/BoyleHotel_Pin1_Image2.jpg)
+![The Boyle Hotel](images/BoyleHotel_Pin1_Image2.jpg)
    {:.image} 
 Image Courtesy of the Security Pacific National Bank Collection, Los Angeles Public Library, 1942. 
    {:.caption} 
