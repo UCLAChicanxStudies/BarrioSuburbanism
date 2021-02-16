@@ -5,7 +5,7 @@ date: 2021-02-10
 categories: ["Urban Planning and Policy", "Econmic (Im)mobility and Class", “Social Identity and Diversity”]
 author: "Cynthia A. Flores"    
 Lat: 33.987
-Lng:  -118.1331
+Lng: -118.1331
 runningtitle: "Simons Brickyard Company"
 desc: "Simons Brickyard Company, the largest brick manufacturer in the world became one of the largest sites of Latinx employment in Montebello during the 20th century."
 ---
@@ -22,13 +22,10 @@ Aerial View Showing the sprawling Simons Brickyard Company in Montebello during 
    {:.caption} 
 
 #### Works cited
+
 {:.bibliography} 
 1. Deverell, Bill. “Chapter Four: The Color of Brick Work is Brown.” Whitewashed Adobe: The Rise of Los Angeles and its Mexican Past. University of California Press, 2005. 
 2. Morales, Alejandro. The Brick People. Tex: Artie Publico Press, 1998.
 3.  Rasmussen, Cecilia. ”From the Loamy Fields of Montebello Once…” Los Angeles Times,  www.latimes.com/archives/la-xpm-1997-01-24-me-21778-story.html.  Accessed 10 February  2021. 
 
-
 [Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
-
-
-
