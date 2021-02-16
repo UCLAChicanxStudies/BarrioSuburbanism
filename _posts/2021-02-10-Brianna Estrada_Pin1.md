@@ -18,11 +18,10 @@ Photograph showing one of the main structures in Plaza Mexico. Image Courtesy of
    {:.caption} 
 
 #### Works cited
+
 {:.bibliography} 
 1. Armijo, Alberto. “Plaza Mexico Residential/Commercial Expansion”  Oct. 2017
 2.Diaz, David. “Chapter Two: The Early History of Chicana/o Urban and Locational Patterns in the Southwest, 1880-1945” in Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.
  3. Irazábal, Clara, and Grace R. Dyrness. “Promised Land? Immigration, Religiosity, and Space in Southern California.” in Space and Culture, vol. 13, no. 4, Nov. 2010
 
-
 [Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
-
