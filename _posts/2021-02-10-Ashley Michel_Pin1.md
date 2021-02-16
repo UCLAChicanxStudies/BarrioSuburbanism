@@ -2,9 +2,9 @@
 layout: post
 title: "Rancho San Pedro Housing Project"
 date: 2021-02-10
-categories: ["Urban Planning and Policy", "Economic (Im)Mobility and Class"
+categories: ["Urban Planning and Policy", "Economic (Im)Mobility and Class"]
 author: "Ashley Michel"
-Lat: 33.744, 
+Lat: 33.744
 Lng: -118.283
 runningtitle: "Rancho San Pedro Housing Project"
 desc: "The Rancho San Pedro Housing Projects are a public housing community. This space is a site where a large portion of San Pedro’s Latine working-class resides."
@@ -17,6 +17,7 @@ Photograph showing the exterior of the Rancho San Pedro Housing Project, ca. 194
    {:.caption} 
 
 #### Works cited
+
 {:.bibliography} 
 1.Greene, Sam. “South Bay History: The Rancho San Pedro Housing Project Was on the Drawing Board before World War II.” Daily Breeze, February 3, 2020. https://www.dailybreeze.com/2020/02/03/south-bay-history-the-rancho-san-pedro-housing-project-was-on-the-drawing-board-before-world-war-ii/.
 2.Housing Authority of the City of Los Angeles (HACLA). 2019. “Housing Authority of the City of Los Angeles Fact Sheet.” https://home.hacla.org/Portals/0/Attachments/Fact%20Sheets/2019/nHACLA%20Fact%20Sheet%20%2007.17.19.pdf?ver=2019-07-17-094350-743.
