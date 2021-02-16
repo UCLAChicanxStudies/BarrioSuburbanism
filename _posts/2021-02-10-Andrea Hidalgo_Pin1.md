@@ -17,6 +17,7 @@ Source: https://parks.lacounty.gov/el-cariso-community-regional-park/
    {:.caption}
    
 #### Works cited
+
 {:.bibliography} 
 1. https://parks.lacounty.gov/el-cariso-community-regional-park/
 2. Vallejo, Jody Agius. Barrios to Burbs the Making of the Mexican-American Middle Class. Stanford, CA: Stanford UP, 2012. Print.
