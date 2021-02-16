@@ -13,7 +13,6 @@ The Glendora Historical Society preserves Indigenous culture by exhibiting local
 
 ![Ext. Glendora Historical Society](images/GlendoraHistoricalSocietyMusuem_Pin1_Image1.jpg)
    {:.image} 
-
 Photograph showing the exterior of the Glendora Historical Society Museum located on Glendora Ave in West Covina, CA. Source: Glendora Historical Society official website - home page.
    {:.caption} 
 
