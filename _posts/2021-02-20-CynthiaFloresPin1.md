@@ -2,7 +2,7 @@
 layout: post
 title: "Simons Brickyard Company"
 date: 2021-02-20
-categories: ["categories with spaces in quotes - this populates the map layers widget and index"]
+categories: ["Urban Planning and Policy", "Econmic (Im)mobility and Class", "Social Identity and Diversity"]
 author: "Cynthia A. Flores"
 lat: 33.987
 lng: -118.1331
