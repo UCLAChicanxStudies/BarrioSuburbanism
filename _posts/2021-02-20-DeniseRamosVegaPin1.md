@@ -11,7 +11,7 @@ desc: "Located in the heart of Santa Ana on Fourth Street. This market is a hall
 ---
 Not many large markets are available within walking distance, but Northgate on Fourth Street provides relief to many Latinx families in the area. They sell all the typical Mexican household needs, from carne asada to tortillas and masa at affordable prices. Unfortunately, there are plans to demolish the market and replace it with luxury apartments that will most likely go to individuals moving into the area, not current residents. Here we see once again the prevalence of gentrification and the efforts that continue to push the Latinxs of the area out. This has been the case with other landmarks in the area. The Latinx community always facing the negative consequences pushed onto their communities by developers who solely care about the money in their pockets. This also contributes to the erasure of Latinxs in spaces that are being to their community. 
 
-![Outside Northgate](images/NorthgateMarket_Pin1_Image1.jpeg)
+![Outside Northgate](images/NorthgateMarket_Pin1_Image1.jpg)
    {:.image} 
 This image illustrates a look of Northgate Market on Fourth Street from the outside.
 Brazil, Ben. “Santa Ana Residents Hope to Stop Apartment Development at Grocery Store Location.” Los Angeles Times, Los Angeles Times, 22 Jan. 2021, www.latimes.com/california/story/2021-01-21/santa-ana-northgate-market-apartment-development. 
