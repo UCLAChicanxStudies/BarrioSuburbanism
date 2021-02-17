@@ -2,7 +2,7 @@
 layout: post
 title: "Northgate Market"
 date: 2021-02-20
-categories: ["Economic (Im)obility and Class", "Social Identity and Diversity"]
+categories: ["Economic (Im)mobility and Class", "Social Identity and Diversity"]
 author: "Denise Ramos-Vega"
 lat: 33.748
 lng: -117.864
