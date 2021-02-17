@@ -25,12 +25,8 @@ Photograph showing historical artifacts on display and the interior of the Glend
 #### Works cited
 
 {:.bibliography} 
-1. “Glendora Museum.” Youtube, uploaded by Glendora Historical Society, 22 Aug. 2020, 
-https://www.youtube.com/watch?v=ChV62EHF0gc
-2. Carpio, Genevieve. “The Suburban Spanish Fantasy.” CCAS 138B: Barrio 
-Suburbanism, Jan. 2021, https://moodle2.sscnet.ucla.edu/mod/kalvidres/view.php?id=670982
-3. Weise, Julie M. “Mexicans Nationalisms, Southerners Racisms: Mexicans and Mexican 
-Americans in the U.S. South, 1908-1939.” American Quarterly, vol. 60, no. 3, Sept. 
-2008, pp. 749-777. Project MUSE, doi: 10.1353/aq.0.0035. Accessed 10 Feb. 2021.
+1. “Glendora Museum.” Youtube, uploaded by Glendora Historical Society, 22 Aug. 2020, https://www.youtube.com/watch?v=ChV62EHF0gc
+2. Carpio, Genevieve. “The Suburban Spanish Fantasy.” CCAS 138B: Barrio Suburbanism, Jan. 2021, https://moodle2.sscnet.ucla.edu/mod/kalvidres/view.php?id=670982
+3. Weise, Julie M. “Mexicans Nationalisms, Southerners Racisms: Mexicans and Mexican Americans in the U.S. South, 1908-1939.” American Quarterly, vol. 60, no. 3, Sept. 2008, pp. 749-777. Project MUSE, doi: 10.1353/aq.0.0035. Accessed 10 Feb. 2021.
 
 [Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
