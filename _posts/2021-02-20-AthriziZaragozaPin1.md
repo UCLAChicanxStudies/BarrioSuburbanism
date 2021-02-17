@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Boyle Heights City Hall"
-date: 2020-02-20
+date: 2021-02-20
 categories: ["Activism and Justice", "Social Identity and Diversity", "Urban Planning and Policy"]
 author: "Athziri Zaragoza"
 lat: 34.044554 
