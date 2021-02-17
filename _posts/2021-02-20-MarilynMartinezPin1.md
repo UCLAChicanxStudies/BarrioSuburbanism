@@ -14,7 +14,7 @@ El Mexicano Meat Market is a Mexican butcher shop located in Southern Glendale, 
 ![El Mexicano Meat Market](images/ElMexicanoMeatMarket_Pin1_Image1.jpg)
    {:.image} 
 Google Maps Street View & 360° / El Mexican Meat Market famous and unique for its bright orange rails and canopy.
-    {:.caption} 
+   {:.caption} 
 
 #### Works cited
 
