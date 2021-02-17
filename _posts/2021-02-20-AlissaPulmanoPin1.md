@@ -2,7 +2,7 @@
 layout: post
 title: "Glendora Historical Society"
 date: 2021-02-20
-categories: ["Social Identity and Diversity", “Immigration and Migration”, “Economic (Im)mobility and Class”]
+categories: ["Social Identity and Diversity", "Immigration and Migration", "Economic (Im)mobility and Class"]
 author: "Alissa Pulmano"
 lat: 34.140
 lng: -117.865
