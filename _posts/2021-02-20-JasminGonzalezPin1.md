@@ -3,7 +3,7 @@ layout: post
 title: "Raul R. Perez Memorial Park"
 date: 2021-02-20
 categories: ["Urban Planning and Policy", "Social Identity and Diversity", "Activism and Justice"]
-author: "Jasmin Gonzalezr"
+author: "Jasmin Gonzalez"
 lat: 33.985
 lng: -118.236
 runningtitle: "Raul R. Perez Memorial Park"
@@ -19,8 +19,8 @@ Image Courtesy of the City of Huntington Park California, 2021
 #### Works cited
 
 {:.bibliography}
-1.“Raul R. Perez Memorial Park.” City of Huntington Park California, 2021, https://www.hpca.gov/35/Raul-R-Perez-Memorial-Park. Accessed 8 Feb 2021.
-2. “Raul R. Perez.” The Honorable Mayor Raul R Perez Memorial Scholarship, The Raul R. Perez Memorial Scholarship, 2017, https://www.raulrperez.org/new/?page_id=116. Accessed 8 Feb 2021.
+1. "Raul R. Perez Memorial Park." City of Huntington Park California, 2021, https://www.hpca.gov/35/Raul-R-Perez-Memorial-Park. Accessed 8 Feb 2021.
+2. "Raul R. Perez." The Honorable Mayor Raul R Perez Memorial Scholarship, The Raul R. Perez Memorial Scholarship, 2017, https://www.raulrperez.org/new/?page_id=116. Accessed 8 Feb 2021.
 3. Gonzales, Jerry. “El MAPA to the Suburban Ideal.” In Search of the Mexican Beverly Hills: Latino Suburbanization in Postwar Los Angeles, by Jerry Gonzales, Rutgers University Press, 2018, pp. 75. 
 
 [Return to Home](https://uclachicanxstudies.github.io/BarrioSuburbanisms/)
