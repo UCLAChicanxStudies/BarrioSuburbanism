@@ -18,7 +18,6 @@ Photograph showing the exterior of the Glendora Historical Society Museum locate
 
 ![Int. Glendora Historical Society](images/GlendoraHistoricalSocietyMuseum_Pin1_Image2.jpg)
    {:.image}
-
 Photograph showing historical artifacts on display and the interior of the Glendora Historical Society Museum located on Glendora Ave in West Covina, CA. Courtesy of Brett Weber on Google Maps.
    {:.caption}
    
