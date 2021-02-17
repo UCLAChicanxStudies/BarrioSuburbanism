@@ -15,6 +15,7 @@ El Cariso Community Regional Park is a recreational park located in Sylmar Calif
    {:.image}
 Source: https://parks.lacounty.gov/el-cariso-community-regional-park/
    {:.caption}
+   
 #### Works cited
 
 {:.bibliography} 
