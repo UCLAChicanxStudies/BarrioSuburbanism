@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "El Mexicano Meat Market"
-date: 2013-09-01
+date: 2021-02-20
 categories: ["Immigration and Migration", "Economic (Im)mobility and Class", "Global and Transnational"]
 author: "Marilyn Martinez"
-lat: 34.13581932868173
-lng: -118.25139586214596
+lat: 34.1358
+lng: -118.25139
 runningtitle: "El Mexicano Meat Market"
-desc: "El Mexican Meat Market a butcher shop that represents the small but strong Mexican American population found in Glendale, California. Its authenticity provides customers with a taste of home."
+desc: "El Mexicano Meat Market a butcher shop that represents the small but strong Mexican American population found in Glendale, California. Its authenticity provides customers with a taste of home."
 ---
 El Mexicano Meat Market is a Mexican butcher shop located in Southern Glendale, California. It is a mom-and-pop shop where the owners know all their customers by name. The store is characterized by loud Mexican music playing and colorful pinatas hanging from the ceiling. The owners make full use of their property and space by living behind the store. The owners of the shop immigrated from Nayarit, Mexico. Upon their arrival they began striving for autonomy, because to them “a solid piece of land, [business,] and shelter” represented “tangible forms of stability” (Nicolaides and Weise, 2006). They cater to “the national tastes of…Mexican” residents by selling authentic Mexican ingredients (Deverell, 2005). Their business has attained great success by catering to the 10.5% of Glendale residents that possess Mexican ancestry (Mexican L.A. Glendale, 2000). Additionally, their customers have the opportunity to send money back home through their transnational money services. 
 
