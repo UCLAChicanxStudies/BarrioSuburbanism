@@ -2,7 +2,7 @@
 layout: post
 title: "Simons Brickyard Company"
 date: 2021-02-20
-categories: ["Urban Planning and Policy", "Econmic (Im)mobility and Class", "Social Identity and Diversity"]
+categories: ["Urban Planning and Policy", "Economic (Im)mobility and Class", "Social Identity and Diversity"]
 author: "Cynthia A. Flores"
 lat: 33.987
 lng: -118.1331
