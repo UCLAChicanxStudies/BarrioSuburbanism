@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plaza Mexico"
-date: 2020-02-20
+date: 2021-02-20
 categories: ["Social Identity and Diversity", "Global and Transnational"]
 author: "Brianna Estrada"
 lat: 33.928
