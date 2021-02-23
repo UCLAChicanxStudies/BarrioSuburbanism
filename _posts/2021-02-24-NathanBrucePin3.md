@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Southwestern College"
-date: 2013-09-01
+date: 2021-02-24
 categories: ["Social Identity and Diversity", "Economic (Im)mobility and Class"]
 author: "Nathan Bruce"
 lat: 32.641
