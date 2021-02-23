@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MacArthur Park"
-date: 2013-09-01
+date: 2021-02-22
 categories: ["Social Identity and Diversity", "Activism and Justice", "Conflict and Solidarity"]
 author: "Javier Jauregui"
 lat: 34.0584
