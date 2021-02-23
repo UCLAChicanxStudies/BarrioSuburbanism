@@ -2,7 +2,7 @@
 layout: post
 title: "Chaffey High School"
 date: 2013-09-01
-categories: ["Social Identity and Diversity", "Economic Mobility and Class"]
+categories: ["Social Identity and Diversity", "Economic (Im)mobility and Class"]
 author: "Jessie Fernandez"
 lat: 34.079
 lng: -117.654
