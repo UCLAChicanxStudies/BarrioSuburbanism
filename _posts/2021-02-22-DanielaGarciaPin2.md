@@ -2,7 +2,7 @@
 layout: post
 title: "Santa Ana’s Fiesta Plaza"
 date: 2021-02-22
-categories: ["Social Identity and Diversity", "Urban Planning"]
+categories: ["Social Identity and Diversity", "Urban Planning and Policy"]
 author: "Daniela Garcia"
 lat: 33.746
 lng: -117.864
