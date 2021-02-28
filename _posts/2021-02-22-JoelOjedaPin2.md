@@ -11,7 +11,7 @@ desc: "El Nayarit, founded by an immigrant, was a well known venue in Echo Park 
 ---
 Echo Park’s El Nayarit was a Mexican restaurant where all manner of people recognized it as a cultural place-maker to congregate and escape from their daily woes. Founded by Natalia Barraza in 1951, a Mexican immigrant who escaped the violence of the Mexican Revolution, her hospitality and success in creating familiar environments created a space of social acceptance and catharsis. Barraza employed many of her family and friends from Mexico through sponsorships which bolstered El Nayarits reputation as a growing cultural landmark in Echo Park throughout its existence. (Molina) Once Barraza died in 1969, her restaurant had passed through familiar owners until it was erased by Gentrification in the 2000s. (Huerta) Following rent escalation and other businesses being erased, Mitchell Frank had purchased El Nayarit and converted it into a nightclub named The Echo. (Sanchez) Once a place where working class people would go to establish their identities, El Nayarit became a victim of gentrification. 
 
-![El Nayarit Restaurant (missing its “El”) is now “The Echo,”](images/ElNayarit_Pin2_Image1.jpg)
+![El Nayarit Restaurant (missing its “El”) is now “The Echo”](images/ElNayarit_Pin2_Image1.png)
    {:.image} 
 Photograph of the Echo nightclub with the original “Nayarit”. Source: M. Ovnick, October 2014.
    {:.caption} 
