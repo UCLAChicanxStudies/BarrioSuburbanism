@@ -2,7 +2,7 @@
 layout: post
 title: "Farmers’ Market at Salt Lake Park"
 date: 2021-02-24
-categories: ["Urban Planning and Policy", "Social Identity and Diversity ", "Conflict and Solidarity"]
+categories: ["Urban Planning and Policy", "Social Identity and Diversity", "Conflict and Solidarity"]
 author: "Jasmin Gonzalez"
 lat: 33.979
 lng: -118.225
