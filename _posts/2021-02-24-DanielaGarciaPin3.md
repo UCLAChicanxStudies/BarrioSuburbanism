@@ -11,7 +11,7 @@ desc: "Unlike other movie theaters, and under the ownership of the Olivos family
 ---
 Unlike other movie theaters, and under the ownership of the Olivos family, the Yost screened Mexican films and hosted Spanish speaking artists. The Yost gained a lot of popularity during the golden age of Mexican cinema as it invited singers such as Antonio Aguilar and Vicente Fernández to perform in their auditoriums and later inviting American artists such as Sonny and Cher. This theater has helped the Mexican community with selective acculturation which is the process of “slowing down Americanization and promote enthic pride in ethnic identity and helps parents maintain authority while both they and their children accommodate to a new society” (Vallejo,16). After the Olivos, the theater underwent many different owners, however, the theater always made sure to screen either a Mexican film or a mainstream English movie with Spanish subtitles bringing a little piece of home to all Spanish speaking viewers. 
 
-![Yost Theater](images/“YostTheater_pin3_image3.jpg)
+![Yost Theater](images/YostTheater_pin3_image3.jpg)
    {:.image} 
 Photograph showing the exterior of Santa Ana’s Yost Theater. Source: History Room Digital Collection, The City of Santa Ana. 
    {:.caption} 
