@@ -5,7 +5,7 @@ date: 2021-02-24
 categories: ["Economic (Im)mobility and Class"]
 author: "Joel Ojeda"
 lat: 34.081
-lng: 34.081
+lng: -118.254
 runningtitle: "El Batey Market"
 desc: "El Batey Market was another cultural landmark within Echo Park that gave the community the freedom to congregate and unwind with others of similar cultural identities."
 ---
