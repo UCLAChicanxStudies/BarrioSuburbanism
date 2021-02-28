@@ -11,7 +11,7 @@ desc: "Chaffey is very spaced out and is in its early stage of development."
 ---
 Chaffey High School is represented in the city of Ontario through this image. This historical institution’s development began in 1882 with its establishment as a college under USC’s Agricultural department, proceeding to become a high school in 1911. During this time, there were no high schools established in the area; thus, Chaffey served as a rare attraction for young individuals to receive an education, inevitably increasing the appeal and population of Ontario (CJUHSD, 2021). It is critical to acknowledge that Chaffey did not always have a Hispanic-dominant population; rather, White students made up the majority of the population up until about the 1960s when an influx of Hispanic students took place (ed-data, 2021). Many Hispanic students were forced to “whiten through race mixing” and work for legal inclusion (Weise, 753), evident through segregation and a significant loss of culture. Currently, Hispanic students make up close to ninety percent of the population-- a huge difference from the typical suburb school population. 
 
-![Chaffey High School](images/ChaffeyHighSchool_Pin2_image1.jpg)
+![Chaffey High School](images/ChaffeyHighSchool_Pin2_Image1.jpg)
    {:.image} 
 Photograph showing Chaffey High School in Ontario. Source: National Archives and Records Administration, The Living New Deal.
    {:.caption} 
