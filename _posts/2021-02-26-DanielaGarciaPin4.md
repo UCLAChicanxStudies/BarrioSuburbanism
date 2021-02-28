@@ -2,7 +2,7 @@
 layout: post
 title: "Among Heroes Mural"
 date: 2021-02-26
-categories: ["Activism and Justice", "Social Identity & Diversity"]
+categories: ["Activism and Justice", "Social Identity and Diversity"]
 author: "Daniela Garcia"
 lat: 33.755 
 lng: -117.857
