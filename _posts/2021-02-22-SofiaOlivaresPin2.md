@@ -11,7 +11,7 @@ desc: "El Centro Cultural de México is a huge contributor to Santa Ana’s Lati
 ---
 According to David Diaz, a barrio is symbolized by “Spanish language, Mexicana/o and border culture, religion and identity” (40). El Centro Cultural de México exemplifies these symbols because of its educational and organizational activities. Opened in 1992 by a group of migrant women, this cultural center holds music, dance, and art classes for people to learn more about Mexican culture (Hodgins). Its members also host and organize major cultural events in the city such as the annual Noche de Altares event which attracts up to 50,000 people each year (Hodgins). Despite the contributions made to the community, it has been displaced multiple times due to limited city space and gentrification (Brazil). The cultural center has fought back against these processes with the help of multiple community organizations, however, and has found a permanent home near downtown Santa Ana where it continues to foster a sense of identity and community for its members.
 
-![El Centro Cultural de México](images/ElCentroCulturaldeMéxico_S_Pin2_Image1.jpg)
+![El Centro Cultural de México](images/ElCentroCulturaldeMexico_S_Pin2_Image1.jpg)
    {:.image} 
 Photograph showing the exterior of El Centro Cultural de México. Courtesy of Sofia Olivares.
    {:.caption} 
