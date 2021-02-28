@@ -2,7 +2,7 @@
 layout: post
 title: "El Mercadito de Los Angeles"
 date: 2021-02-26
-categories: ["Immigration and Migration", "Social Identity and Diversity", "Economic (Im)mobility and Clas"]
+categories: ["Immigration and Migration", "Social Identity and Diversity", "Economic (Im)mobility and Class"]
 author: "Anonymous Student"
 lat: 34.037
 lng: -118.194
