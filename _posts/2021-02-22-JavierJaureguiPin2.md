@@ -11,7 +11,7 @@ desc: "The park was named after General Douglas MacArthur during the time in whi
 ---
 The park was named after General Douglas MacArthur during the time in which Westlake was part of the initiative of designating West Los Angeles as a space for only residential land use, specifically for the “growing middle-class Protestant communities” (Sanchez, 635). The park’s main attributes are MacArthur lake, a soccer field, and an outdoor music venue. Since the arrival of Central Americans in Westlake, MacArthur Park has evolved into a space for Central American inhabitants to utilize this space as a place to become one with their cultural roots, with their family, or with nature. Central Americans are reminded of their home countries through the many activities that they participate in at the park such as food vending, playing soccer, socializing with other Central Americans, etc. (Main, 222). It’s also a space for inhabitants to escape the worries and stress that comes with living in an urban area as the park is a space for inhabitants to relax in nature (Main, 138).
 
-![MacArthur Park](images/MacArthurPark_Pin2_image2.jpg)
+![MacArthur Park](images/MacArthur Park_Pin2_Image2.jpg)
    {:.image} 
 Paulos Menz. MacArthur Park. Google Maps. https://goo.gl/maps/sTYkdmwq6247pkBL6. September 2017
    {:.caption} 
