@@ -11,13 +11,13 @@ desc: "Reggie J Rodriguez Park located within the heart of Montebello offers res
 ---
 Montebello’s Reggie J Rodriguez Park was named after a local Mexican-American who died during the Vietnam war. Lupe Rodrigues, the mother of Reggie Rodriguez recalls naming the park being one of her proudest moments (Life-Long Resident, 2011). Throughout the 20th century there were a significant number of Mexican-Americans who were drafted and served during World War II and the Vietnam War. During World War II alone over 300,000 Mexican-American served under the U.S military (Gonzalez, 2018). When the veteran returned to the United States they frequently endured social conditions that excluded them from obtaining housing, education, or even upward economic mobility. Against all the odds that the Latinx community and its verteran endure, the Reggie J Rodriguez park acknowledges the displacement and refuses to allow the erasure of their service. Furthermore, the park has become a site for community building and solidarity via its community center. The Center offers child care services, computer laboratory, services for local youth, and a multi-purpose room (Reggie Rodriguez Community Center, 2011). Over time the park has become a site of restoration and healing for the local Latnix community and an homage to all the Latinx veterans. 
 
-![Reggie J Rodriguez Park Children’s Play Area](images/CynthiaFlores_Pin4_Image1jpg)
+![Reggie J Rodriguez Park Children’s Play Area](images/CynthiaFlores_Pin4_Image1.jpg)
    {:.image} 
 View of the Children's Play area situated within the Park. 
 Source: J, Danny. Playground Area. Reggie J Rodriguez Park, Montebello. https://www.yelp.com/biz/reggie-j-rodriguez-park-montebello-2.
    {:.caption} 
 
-![Reggie J Rodriguez Park Community Center](images/CynthiaFlores_Pin4_Image2jpg)
+![Reggie J Rodriguez Park Community Center](images/CynthiaFlores_Pin4_Image2.jpg)
    {:.image} 
 Reggie Rodriguez Park Community Center which offers community services for local youth and mothers. 
 Source: "Reggie Rodriguez Community Center / Sparano + Mooney Architecture" 31 May 2011. ArchDaily.https://www.archdaily.com/139616/reggie-rodriguez-community-center-sparano-mooney-architecture
