@@ -6,7 +6,7 @@ categories: ["Social Identity and Diversity"]
 author: "Anonymous Student"
 lat: 33.973 
 lng: -118.079
-runningtitle: "La Chelaguasv"
+runningtitle: "La Chelaguas"
 desc: "Las Chelaguas is a pop-up food tent that sells Mexican-influenced desserts and beverages. It has gained popularity on social media sites like TikTok."
 ---
 Las Chelaguas is a Latino-owned pop-up food tent that sets up mostly around the Pioneer High School parking lot in Whittier, CA (Facebook.com). It is mostly known for its mini-pancakes that often get coated in sweet toppings, as well as for their Mexican-influenced aguas frescas, but with their own twist. Las Chelaguas has gained major popularity on the social media site TikTok for its aesthetics and unique twist to traditional Mexican desserts. The David Diaz reading mentions the struggle of barrio Latino-owned businesses during the early creations of the barrios because of the struggles put in place by their white counterparts, however it is interesting to see the change in popularity of this Latino owned business and how they thrive thanks to the internet (Diaz, 2005). The hashtag #LasChelaguas on TikTok has over 2 million views, and many people seek out to buy from this business (TikTok, 2021). 
