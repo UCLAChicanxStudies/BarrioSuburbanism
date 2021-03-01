@@ -3,7 +3,7 @@ layout: post
 title: "The Boyle Hotel-Cummings Block"
 date: 2021-02-20
 categories: ["Immigration and Migration", "Urban Planning and Policy", "Social Identity and Diversity"]
-author: "author"
+author: "Zahra Estrada"
 lat: 34.047
 lng: -118.220
 runningtitle: "The Boyle Hotel-Cummings Block"
