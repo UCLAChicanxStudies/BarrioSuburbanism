@@ -4,8 +4,8 @@ title: "Mariachi Plaza"
 date: 2021-02-28
 categories: ["Immigration and Migration", "Economic (Im)mobility and Class", "Social Identity and Diversity"]
 author: "Zahra Estrada"
-lat: 33.047
-lng: -118.220
+lat: 34.047594642400526
+lng: -118.21880486927346
 runningtitle: "Mariachi Plaza"
 desc: "Mariachi Plaza is a site in Boyle Heights where mariachi musicians have gathered since the 1930s in hopes of getting hired."
 ---
