@@ -2,7 +2,7 @@
 layout: post
 title: "Xevichez Sushi Bar"
 date: 2021-02-22
-categories: ["Social identity and Diversity", "Economic (Im)mobility and Class"]
+categories: ["Social Identity and Diversity", "Economic (Im)mobility and Class"]
 author: "Andrea Hidalgo"
 lat: 34.298
 lng: -118.441
