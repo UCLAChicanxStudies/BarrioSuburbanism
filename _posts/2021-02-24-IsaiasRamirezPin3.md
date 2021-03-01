@@ -2,7 +2,7 @@
 layout: post
 title: "Rancho San Pedro Housing Project"
 date: 2021-02-24
-categories: [Economic (Im)mobility and Class", "Immigration and Migration"]
+categories: ["Economic (Im)mobility and Class", "Immigration and Migration"]
 author: "Isaias Ramirez"
 lat: 33.743
 lng: -118.282
