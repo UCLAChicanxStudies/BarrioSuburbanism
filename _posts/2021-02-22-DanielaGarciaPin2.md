@@ -11,7 +11,7 @@ desc: "Located in Downtown Santa Ana, the Fiesta Plaza is a shopping district fu
 ---
 Located in Downtown Santa Ana, the Fiesta Plaza is a shopping district full of all your favorite Mexican goods. Author Audrey Singer writes, “Along with the construction of new houses and employment nodes in the suburbs, new roads and highways also led to opportunities for the construction of new or improved commercial districts'' ( Singer, 38) In the 1980’s the Fiesta Plaza was built to save the city from a crashing economy and provide the Mexican inhabitants with the easy access to Mexican goods without the need of having to travel to bigger cities. Back in 1889, a fashion show was held with beauty pageant contestants modeling clothes from area stores and bringing attention to these small businesses. Till this day, the Fiesta Plaza promises a fun time with live Mariachi bands and folklorico groups and games/rides for the children.
 
-![Santa Ana’s Fiesta Plaza](images/FiestaPlaza_pin2_image2.jpg)
+![Santa Ana’s Fiesta Plaza](images/FiestaPlaza_Pin2_Image2 .jpg)
    {:.image} 
 Photograph showing the exterior of Santa Ana’s Fiesta Plaza. Source: History Room Digital Collection, The City of Santa Ana. 
    {:.caption} 
