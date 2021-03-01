@@ -19,7 +19,7 @@ Photograph shows the Henning Lynwood Youth Center structure. Image Courtesy of G
 #### Works cited
 
 {:.bibliography}
-1. Benefits for Youth, Families, & Communities. Benefits for Youth, Families, & Communities | Youth.gov. https://youth.gov/youth-topics/afterschool-programs/benefits-youth-families-and-communities. 
+1. Benefits for Youth, Families, & Communities. Benefits for Youth, Families, & Communities, Youth.gov. https://youth.gov/youth-topics/afterschool-programs/benefits-youth-families-and-communities. 
 2. González, J. (2018). The Lands of Mañana.In Search of the Mexican Beverly Hills: Latino Suburbanization in Postwar Los Angeles (pp. 14-45). New Brunswick, Newark, Camden, New Jersey; London: Rutgers University Press. 
 3. Vallejo, Jody Agius. “Chapter One: Class, Assimilation, and Mexican Americans,” in Barrios to Burbs: The Making of the Mexican-American Middle Class, Stanford University Press, 2012. 
 
