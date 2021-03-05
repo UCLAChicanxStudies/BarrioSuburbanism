@@ -19,7 +19,7 @@ permalink: /zcontributors/
 * Librarian and Archivist at the UCLA Chicano Studies Research Center. Flores oversees all library, archives, and museum services, including outreach, instruction, grant projects, and donor relations. She also works closely with students and partner organizations to build stronger ties between community and UCLA.
 
 > #### Romeo Guzmán
-* Co-director of the South El Monte Arts Posse and Assistant Professor in US and Public History at Claremont Graduate University
+* Romeo Guzmán is an assistant professor in US history at Claremont Graduate University. From 2016 to 2020, he founded and directed the Valley Public History Initiative at Fresno State. Guzmán is co-editor of East of East: The Making of Greater El Monte (Rutgers), which was listed as one of the best books about California in 2020 by the LA Times. He currently co-edits Boom California, a public-facing and open-access journal by UC Press. For more about Dr. Guzmán's work please visit romeoguzman.com 
 
 > #### Lizeth Ramirez
 * Lizeth Ramírez joined the UCLA Library Special Collections curating team as Librarian/Archivist for Los Angeles Communities and Cultures in March 2019. Prior to joining UCLA, Lizeth was an Archivist and Reference Librarian at the Orange Public Library & History Center in Orange, California, where she managed the local history archive for over eleven years. A native Angeleno and bilingual English-Spanish speaker, Lizeth looks forward to working with local communities and cultures in Los Angeles.
