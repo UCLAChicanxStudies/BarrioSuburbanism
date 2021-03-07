@@ -13,7 +13,7 @@ Normont Elementary School is a public school located in the Harbor Gateway regio
 
 Since the repeal of Proposition 227 in 2016, dual-immersion programs have grown in California public schools, offering an educational experience that captures young children’s cognitive benefits. Dual-immersion is built on substantial research that shows that cultural competence and language development are enhanced among bilingual children and does not hinder English-language proficiency or acquisition (1). Latinx students at Normont have the opportunity to nurture their linguistic roots, especially after enduring a history where bilingualism was institutionally banned by English-only legislation as well as socially stigmatized by assimilationist projects(3).
 
-![Normont Elementary School](images/Normont Elementary School_AM_Pin2_Image1.jpg)
+![Normont Elementary School](images/NormontElementary_AM_Pin2_Image1.jpg)
    {:.image} 
 Photograph showing the exterior of the Normont Elementary School 
 Source: Explore LAUSD
