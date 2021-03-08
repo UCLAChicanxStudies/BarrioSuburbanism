@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Casa Primerav"
+title: "Casa Primera"
 date: 2021-02-26
-categories: ["Economic Mobility and Class", "Immigration and Migration"]
+categories: ["Economic (Im)mobility and Class", "Immigration and Migration"]
 author: "Trevor Wolff"
 lat: 34.075
 lng: -117.755
