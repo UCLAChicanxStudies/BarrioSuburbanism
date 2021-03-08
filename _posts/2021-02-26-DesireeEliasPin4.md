@@ -2,12 +2,12 @@
 layout: post
 title: "Alameda Corridor"
 date: 2021-02-26
-categories: ["Urban Planning and Policy", "Economic Immobility and Class"]
+categories: ["Urban Planning and Policy", "Economic (Im)mobility and Class"]
 author: "Desiree Elias"
 lat: 33.981
 lng: -118.236
 runningtitle: "Alameda Corridor"
-desc: "This image shows the Alameda Corridor which marks a metaphorical barrier between Huntington Park and South Central."
+desc: "The Alameda Corridor marks a metaphorical barrier between Huntington Park and South Central."
 ---
 The saying ‘living on the wrong side of the tracks' can be applied to the train tracks that separate Huntington Park and South Central. The Alameda Corridor “is an express railway line that moves cargo from the ports of Los Angeles and Long Beach to the national rail system near downtown Los Angeles”(Rahman, 2018). However these trains serve as a metaphorical barrier between two low income majority minority cities that dates back to when Huntington Park had a white majority. Although Huntington Park was not a racial covenant it “sought to limit the loss of property value by barring the introduction of racially undesirable owners” (Gonzalez, 2018). Although the demographics have changed in Huntington Park, both communities while being underserved and low income are very distinct in the city’s housing arrangements. The train tracks divide a neighborhood that has been historically underserved and a once upper middle class community.
 
