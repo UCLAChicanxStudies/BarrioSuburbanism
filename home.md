@@ -21,8 +21,6 @@ title: "Barrio Suburbanisms"
 
 > [Browse Articles](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/article-index/)
 
-> [Browse by Images](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/browsebyimages/) 
-
 > [Indigenous Lands](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/indigenouslands/)
 
 > [Resources](https://uclachicanxstudies.github.io/BarrioSuburbanisms/#/resources/)
